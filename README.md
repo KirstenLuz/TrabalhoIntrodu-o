@@ -1,1 +1,1 @@
-Este é um trabalho para disciplina de Introdução a Engenharia da Computação
+Trabalho para a disciplina de Introdução a Engenharia da Computação
